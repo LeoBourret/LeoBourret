@@ -21,3 +21,6 @@ PUSH_SWAP:
 CUB3D:
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lebourre/cub3d)](https://github.com/JaeSeoKim/badge42)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
