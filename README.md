@@ -3,6 +3,11 @@
 [![lebourre's 42 stats](https://badge42.herokuapp.com/api/stats/lebourre?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 
+MINISHELL:
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lebourre/minishell)](https://github.com/JaeSeoKim/badge42)
+
+
 FT_PRINTF:
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lebourre/ft_printf)](https://github.com/JaeSeoKim/badge42)
