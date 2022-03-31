@@ -27,5 +27,3 @@ CUB3D:
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lebourre/cub3d)](https://github.com/JaeSeoKim/badge42)
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoBourret&show_icons=true&theme=onedark)
