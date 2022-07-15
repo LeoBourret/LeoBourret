@@ -1,29 +1,19 @@
 # Lebourre
 
-[![lebourre's 42 stats](https://badge42.herokuapp.com/api/stats/lebourre?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![lebourre's 42 stats](https://badge42.vercel.app/api/v2/cl48c3v0l001609mqlbhfgaek/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
 
+FT_CONTAINERS:
+
+[![lebourre's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl48c3v0l001609mqlbhfgaek/project/2582954)](https://github.com/JaeSeoKim/badge42)
 
 MINISHELL:
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lebourre/minishell)](https://github.com/JaeSeoKim/badge42)
-
-
-FT_PRINTF:
-
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lebourre/ft_printf)](https://github.com/JaeSeoKim/badge42)
-
+[![lebourre's 42 minishell Score](https://badge42.vercel.app/api/v2/cl48c3v0l001609mqlbhfgaek/project/2125259)](https://github.com/JaeSeoKim/badge42)
 
 LIBASM:
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lebourre/libasm)](https://github.com/JaeSeoKim/badge42)
-
-
-PUSH_SWAP:
-
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lebourre/push_swap)](https://github.com/JaeSeoKim/badge42)
-
+[![lebourre's 42 libasm Score](https://badge42.vercel.app/api/v2/cl48c3v0l001609mqlbhfgaek/project/2122527)](https://github.com/JaeSeoKim/badge42)
 
 CUB3D:
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lebourre/cub3d)](https://github.com/JaeSeoKim/badge42)
-
+[![lebourre's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl48c3v0l001609mqlbhfgaek/project/2098534)](https://github.com/JaeSeoKim/badge42)
