@@ -6,6 +6,10 @@ FT_CONTAINERS:
 
 [![lebourre's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl48c3v0l001609mqlbhfgaek/project/2582954)](https://github.com/JaeSeoKim/badge42)
 
+FT_IRC:
+
+[![lebourre's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl48c3v0l001609mqlbhfgaek/project/2753147)](https://github.com/JaeSeoKim/badge42)
+
 MINISHELL:
 
 [![lebourre's 42 minishell Score](https://badge42.vercel.app/api/v2/cl48c3v0l001609mqlbhfgaek/project/2125259)](https://github.com/JaeSeoKim/badge42)
